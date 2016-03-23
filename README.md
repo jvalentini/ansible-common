@@ -1,3 +1,5 @@
+https://travis-ci.org/jvalentini/ansible-common.svg?branch=master
+
 Role Name
 =========
 
