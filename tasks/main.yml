@@ -1,2 +1,3 @@
 ---
-- user: name={{ user }}
+- name: create user
+  user: name={{ user }} group={{ group }} shell={{ shell }} comment="{{ full_name }}"
