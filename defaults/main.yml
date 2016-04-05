@@ -1,2 +1,6 @@
 ---
-# defaults file for common
+user: jval
+group: admin
+home: /home/{{ user }}
+shell: /bin/zsh
+full_name: Justin Valentini
